@@ -29,3 +29,4 @@ hi,千里码的用户,欢迎来到github。
 * 乾坤数据
 * Tobe
 * ltm1994
+* thinkfree1992
