@@ -51,3 +51,4 @@ hi,千里码的用户,欢迎来到github。
 * tiaobug
 * godfery
 * Rokic
+* freeman_peng
