@@ -52,3 +52,4 @@ hi,千里码的用户,欢迎来到github。
 * godfery
 * Rokic
 * freeman_peng
+* anywalker
