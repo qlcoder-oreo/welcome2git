@@ -55,3 +55,4 @@ hi,千里码的用户,欢迎来到github。
 * ningquec
 * cyan-blue
 * blizzard
+* BluesCode
