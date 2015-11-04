@@ -54,3 +54,4 @@ hi,千里码的用户,欢迎来到github。
 * freeman_peng
 * ningquec
 * cyan-blue
+* blizzard
