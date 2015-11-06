@@ -57,4 +57,3 @@ hi,千里码的用户,欢迎来到github。
 * blizzard
 * BluesCode
 * yehuifzu
-youyoum4a1@hotmail.com
