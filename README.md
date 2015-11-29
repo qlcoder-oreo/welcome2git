@@ -76,3 +76,4 @@ hi,千里码的用户,欢迎来到github。
 * yeshimin
 * zhuxiaowei
 * 挖矿大老板
+* jalyWu
