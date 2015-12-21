@@ -112,3 +112,4 @@
 	* K18611601381
 	* windroid
 	* Radish
+	* chinawiz
