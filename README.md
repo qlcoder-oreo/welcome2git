@@ -113,4 +113,5 @@
 	* windroid
 	* Radish
 	* chinawiz
+	* zoo
 	* arthur
