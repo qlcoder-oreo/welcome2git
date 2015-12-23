@@ -115,3 +115,4 @@
 	* chinawiz
 	* zoo
 	* arron_chen
+	* Solomon Xie
