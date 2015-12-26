@@ -120,4 +120,6 @@
 	* kz12
 	* Janker
 	* youfeng243
+	* Roting
+    * isaacpei
 	* shenyiwen
