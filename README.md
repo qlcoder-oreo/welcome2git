@@ -155,3 +155,4 @@ hi,千里码的用户,欢迎来到github。
 * 丶小爷
 * bugkillers
 * 萧泡泡龙
+* vidarlee
