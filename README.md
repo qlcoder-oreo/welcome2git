@@ -1,4 +1,4 @@
-#welcome2git
+# welcome2git
 hi,千里码的用户,欢迎来到github。
 这里是世界上最大的开源代码托管社区,算是一个程序员的宝藏了。php,ruby,python,apache等众多明星项目的代码都托管在这里。你可以完全免费的下载下来,阅读,编译,调试,更改,学习。当你通过不断的学习理解，你也可以以提交代码的方式回馈社区。
 在这里,我希望你可以掌握git&github的基本用法,了解基本的操作命令。
@@ -31,7 +31,7 @@ hi,千里码的用户,欢迎来到github。
 * thinkfree1992
 * mindthink
 * hong
-* wentao_tang
+* wentao\_tang
 * qlctangsir
 * Luck Lamb
 * zofsecret
@@ -51,7 +51,7 @@ hi,千里码的用户,欢迎来到github。
 * tiaobug
 * godfery
 * Rokic
-* freeman_peng
+* freeman\_peng
 * ningquec
 * cyan-blue
 * blizzard
@@ -97,7 +97,7 @@ hi,千里码的用户,欢迎来到github。
 * enderdzz
 * Yvan
 * hcs2024
-* pen_xian
+* pen\_xian
 * ah787264643
 * 27018818
 * Santiago Tesla
@@ -114,7 +114,7 @@ hi,千里码的用户,欢迎来到github。
 * Radish
 * chinawiz
 * zoo
-* arron_chen
+* arron\_chen
 * xxmodd
 * fsfish
 * kz12
@@ -123,7 +123,7 @@ hi,千里码的用户,欢迎来到github。
 * Roting
 * isaacpei
 * shenyiwen
-* co_fund
+* co\_fund
 * 李金龙
 * wannianma
 * mzry1992
@@ -145,8 +145,8 @@ hi,千里码的用户,欢迎来到github。
 * congve1
 * CyberZHG
 * fgwx7796
-* dlut_frank
-* nine_sad
+* dlut\_frank
+* nine\_sad
 * coderbruce
 * Ryan
 * Evan.Player
@@ -164,3 +164,4 @@ hi,千里码的用户,欢迎来到github。
 * Chen110
 * 黑泽
 * kmlrac
+* Oceanz
