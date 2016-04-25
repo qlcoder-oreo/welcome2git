@@ -114,7 +114,7 @@ hi,千里码的用户,欢迎来到github。
 * Radish
 * chinawiz
 * zoo
-* arron\_chen
+* arron_chen
 * xxmodd
 * fsfish
 * kz12
