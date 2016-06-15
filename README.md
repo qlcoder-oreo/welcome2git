@@ -9,6 +9,7 @@ hi,千里码的用户,欢迎来到github。
 
 以下是通过列表,恭喜以下coder熟练掌握的git&github的基本使用方法。请自行修改本文件,将你的名字添加至改列表最后:
 
+* 李杰
 * shinian
 * oreo
 * jiaye
